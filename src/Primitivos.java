@@ -50,6 +50,7 @@ public class Primitivos {
         var entero2 = 2147483648L;
 
 
+        System.out.println("Hola edu");
 
     }
 }
