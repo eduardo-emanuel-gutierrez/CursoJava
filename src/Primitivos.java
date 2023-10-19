@@ -1,4 +1,6 @@
 public class Primitivos {
+    //esta variable flotante se puede usar dentro del metodo estatico main por ser estatica
+    static float varFlotante;
     public static void main(String[] args) {
         byte numeroByte = 127;
         System.out.println("numeroByte = " + numeroByte);
@@ -49,8 +51,12 @@ public class Primitivos {
         var entero = 2147483647;
         var entero2 = 2147483648L;
 
+        //al asignar un numero de punto flotante, este es de tipo doble por defecto
+        var flotanteDouble = 3.4;
+        var flotanteFloat =3.4f;
 
-        System.out.println("Hola edu");
+        //imprimimos valor por defecto de una variable flotante
+        System.out.println(varFlotante);
 
     }
 }
