@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26610e63-4960-413e-a350-48e735aeb069" name="Changes" comment="commit dia 2">
-      <change afterPath="$PROJECT_DIR$/src/Caracteres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimitivosBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemasNumericos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cadenas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionDeTipos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Primitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697745793853</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit dia 2">
+      <created>1697745866952</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697745866952</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
