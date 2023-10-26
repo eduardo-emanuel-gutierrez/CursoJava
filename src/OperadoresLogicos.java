@@ -22,6 +22,8 @@ public class OperadoresLogicos {
         b3 = i==j && (k > l || m == false);
         System.out.println("b3 = " + b3);//false
 
+        //&& es verdadero cuando ambos son verdaderos
+        // || es falso cuando ambos son falsos
 
     }
 }
